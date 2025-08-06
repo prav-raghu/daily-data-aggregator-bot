@@ -1,4 +1,5 @@
 # 📰 DDAB Bot – Daily Data Aggregator Bot
+<img src="./assets/banner.png" alt="DDAB Bot Banner" width="500">
 
 **DDAB Bot** is an AI-powered daily briefing tool that pulls essential information from multiple sources and presents it in a single, concise report. Think of it as your "day at a glance" companion — customizable, modular, and lightning-fast.
 
